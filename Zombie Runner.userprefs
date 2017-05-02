@@ -1,8 +1,11 @@
-﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Helicopter.cs">
     <Files>
       <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player.cs" Line="23" Column="83" />
+      <File FileName="Assets\Eyes.cs" Line="21" Column="5" />
+      <File FileName="Assets\Helicopter.cs" Line="18" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
