@@ -19,3 +19,11 @@ C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\Unity
 C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\boucb\OneDrive\Documents\Udemy\Unity\Zombie Runner\Temp\bin\Debug\UnityEngine.VR.xml
